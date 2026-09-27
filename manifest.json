@@ -1,0 +1,24 @@
+{
+  "name": "MX-5 차계부",
+  "short_name": "MX-5 Log",
+  "description": "마즈다 MX-5 전용 차계부 — 주유·정비·트랙 기록 관리",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#e85d04",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
